@@ -27,4 +27,15 @@ Todas as imagens estão disponíveis na pasta [`inputs`](https://github.com/quin
 ### randy-qquant
 | Extract common tags from images  | Add dense captions to images 1 |
 | ----------------------------------- | ----------------------------------- | 
-| <img src="outputs/randy-qquant-extract.jpeg" alt="Avengers Anime" width="350vw"/> | <img src="outputs/randy-qquant-addcaption-dense.jpeg" alt="Randy Qquant (Me)" width="350vw"/> |
+| <img src="outputs/randy-qquant-extract.jpeg" alt="Avengers Anime" width="450vw"/> | <img src="outputs/randy-qquant-addcaption-dense.jpeg" alt="Randy Qquant (Me)" width="450vw"/> |
+
+### avengers
+| Add dense captions to images |
+| ----------------------------------- | 
+| <img src="outputs/avengers-addcaption-dense.jpeg" alt="Avengers Anime" width="450vw"/> | 
+
+### mib
+| Add captions to images  | Detect faces in an image |
+| ----------------------------------- | ----------------------------------- | 
+| <img src="outputs/mib-addcaption.jpeg" alt="Avengers Anime" width="450vw"/> | <img src="outputs/mib-detect.jpeg" alt="Randy Qquant (Me)" width="450vw"/> |
+
