@@ -10,6 +10,8 @@ Ao abrir o Azure Vision Studio no link https://portal.vision.cognitive.azure.com
 Rodei uma série de testes com os modelos disponíveis no Vision Studio e os resultados são bem impressionantes, mas, ainda há dificuldade em detetar poster de animação com fotografia de um humano ou desenho animado.
 Levanta algumas questões preocupantes de segurança se for usar algum desses modelos em produção, mas dá para brincar :)
 
+Além do mais, você pode treinar um modelo novo, ou customizar os modelos já existentes, para saber mais https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/model-customization?tabs=studio.
+
 ## Banco de Imagens de Entrada
 Descrição breve das imagens usadas nos testes. 
 
