@@ -35,7 +35,8 @@ O objetivo aqui era avaliar a capacidade do serviço em sugerir uma descrição 
 | ----------------------------------- | ----------------------------------- | 
 | <img src="outputs/randy-qquant-extract.jpeg" alt="Randy Qquant" width="450vw"/> | <img src="outputs/randy-qquant-addcaption-dense.jpeg" alt="Randy Qquant (Me)" width="450vw"/> |
 
-### avengers
+### Imagem avengers
+Esse resultado foi agradavelmente surpreendente, porque o serviço identificou claramente que era um poster de filme. O Thanos não foi identificado como face humana, curioso :dizzy_face:, já que o modelo identificou o `avengers-ca` como faces humanas :eyes:.
 | Add dense captions to images |
 | ----------------------------------- | 
 | <img src="outputs/avengers-addcaption-dense.jpeg" alt="Avengers Anime" width="450vw"/> | 
