@@ -41,7 +41,8 @@ Esse resultado foi agradavelmente surpreendente, porque o serviço identificou c
 | ----------------------------------- | 
 | <img src="outputs/avengers-addcaption-dense.jpeg" alt="Avengers Anime" width="450vw"/> | 
 
-### mib
+### Imagem mib
+Os resultados aqui são interessantes devido à [IA responsável](https://www.microsoft.com/pt-br/ai/responsible-ai), porque os modelos apresentavam uma dificuldade em reconhecer a diversidade, observamos que os modelos dos serviços da Azure usam uma descrição neutra.
 | Add captions to images  | Detect faces in an image |
 | ----------------------------------- | ----------------------------------- | 
 | <img src="outputs/mib-addcaption.jpeg" alt="Avengers Anime" width="450vw"/> | <img src="outputs/mib-detect.jpeg" alt="Randy Qquant (Me)" width="450vw"/> |
