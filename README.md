@@ -48,7 +48,8 @@ Os resultados aqui são interessantes devido à [IA responsável](https://www.mi
 | <img src="outputs/mib-addcaption.jpeg" alt="Avengers Anime" width="450vw"/> | <img src="outputs/mib-detect.jpeg" alt="Randy Qquant (Me)" width="450vw"/> |
 
 
-### bob-marley
+### Imagem bob-marley
+Serviços usados foram ` Extract text from images` e `Detect faces in an image` com resultados já esperados para extração de texto e deteção de faces numa imagem.
 | Extract text from images  | Detect faces in an image |
 | ----------------------------------- | ----------------------------------- | 
 | <img src="outputs/marley-extract.jpeg" alt="Avengers Anime" width="450vw"/> | <img src="outputs/marley-detect.jpeg" alt="Randy Qquant (Me)" width="450vw"/> |
